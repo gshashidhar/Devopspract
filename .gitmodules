@@ -1,0 +1,3 @@
+[submodule "gitdir/Devopspract"]
+	path = gitdir/Devopspract
+	url = https://github.com/gshashidhar/Devopspract.git
